@@ -171,7 +171,7 @@
       </div>
     </div>
     <!-- end section -->
-    <!-- section -->
+    <!-- section -  ->
     <div class="section padding_layout_1">
       <div class="container">
         <div class="row">
